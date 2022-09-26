@@ -54,11 +54,11 @@ d.掌握阿里云中地域和可用区的概念。
 
 阿里云创立于2009年，2017年1月成为奥运会全球指定云服务商。
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/2.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/2.png)
 
 #### 1.3阿里云产品全家福
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/3.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/3.png)
 
 计算类：
 
@@ -130,7 +130,7 @@ d.掌握阿里云中地域和可用区的概念。
 
 #### 1.4 阿里云产品架构
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/4.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/4.png)
 
 #### 1.5阿里云基础架构
 
@@ -145,7 +145,7 @@ d.掌握阿里云中地域和可用区的概念。
 
 每个地域完全独立。每个可用区完全隔离，但同一个地域内的可用区之间使用低时延链路相连。
 
-![5](5.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/5.png)
 
 如何选择合适的地域和可用区？
 
@@ -207,7 +207,7 @@ ECS的组件架构图：
 
 云服务ECS及其他阿里云产品关系如图。
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/6.ECS%E7%9A%84%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/6.ECS%E7%9A%84%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 
 
@@ -217,7 +217,7 @@ ECS部署建议：
 
 地域和可用区、高可用性、网络规划、安全方案。
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/7.ECS%E9%83%A8%E7%BD%B2%E5%BB%BA%E8%AE%AE.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/7.ECS%E9%83%A8%E7%BD%B2%E5%BB%BA%E8%AE%AE.png)
 
 ECS适用场景：
 
@@ -233,19 +233,19 @@ ECS适用场景：
 
 6.机器学习和深度学习等AI应用
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/8-1.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/8-1.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png)
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/8-2.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/8-2.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png)
 
 #### 2.2ECS的优势
 
 阿里云弹性计算10年身后技术积淀，技术领先、性能优异、稳如磐石。
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/9.ECS%E4%BC%98%E5%8A%BF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/9.ECS%E4%BC%98%E5%8A%BF.png)
 
 **ECS和IDC对比：**
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/10.ECS%E5%92%8CIDC%E5%AF%B9%E6%AF%94.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/10.ECS%E5%92%8CIDC%E5%AF%B9%E6%AF%94.png)
 
 #### 2.3 ECS的实例规格
 
@@ -263,10 +263,10 @@ ECS的常用概念：
 
 创建实例—准备中—启动中—运行中—停止中—已停止—删除实例。
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/11.%E5%AE%9E%E4%BE%8B%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/11.%E5%AE%9E%E4%BE%8B%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
 **阿里云中ECS的实例规格族：**
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/12.%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/12.%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F.png)
 
 #### 2.4 弹性裸金属服务器（神龙）EBM
 
@@ -274,18 +274,18 @@ ECS的常用概念：
 
 ​	弹性裸金属服务器（ECS Bare Metal Instance） 是基于达礼运完全自主研发的下一代虚拟化技术而打造的新型计算类服务产品，兼具虚拟机的弹性和物理机的性能及功能特性。与上一代虚拟化技术相比，下一代虚拟化技术不仅保留了普通云服务器的弹性体验，而且保证了物理机的性能与特性，全面**支持嵌套虚拟化**技术。
 
-![13.EBM](13.EBM.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/13.EBM.png)
 
 弹性裸金属服务器特点：
 
 - 弹性裸金属服务器融合了物理机与云服务器的各自优势，实现超强超稳的计算能力。业务应用可以直接访问弹性裸金属服务器和内存，无任何虚拟化开销。
 - 弹性裸金属服务器通过自研芯片和自研Hypervisor系统软件，打造了全球领先的深度融合物理机和虚拟机特性的创新型计算架构。能与阿里云产品家族中的其他计算产品无缝对接。
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/14.EBM%E5%AE%9E%E4%BE%8B.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/14.EBM%E5%AE%9E%E4%BE%8B.png)
 
 弹性裸金属服务器的优势和使用场景
 
-![15.EBM的优势和使用场景](15.EBM%E7%9A%84%E4%BC%98%E5%8A%BF%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/15.EBM%E7%9A%84%E4%BC%98%E5%8A%BF%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.png)
 
 #### 2.5 阿里云ECS的使用
 
@@ -293,7 +293,7 @@ ECS的常用概念：
 
 实例的创建：基础配置—网络—系统配置—完成购买
 
-![16.购买ECS](16.%E8%B4%AD%E4%B9%B0ECS.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/16.%E8%B4%AD%E4%B9%B0ECS.png)
 
 阿里云中的镜像
 
@@ -301,13 +301,13 @@ ECS的常用概念：
 
 - 阿里云中ECS使用的镜像的分类：
 
-<img src="17.%E9%95%9C%E5%83%8F%E7%B1%BB%E5%9E%8B.png" alt="17.镜像类型" style="zoom:150%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/17.%E9%95%9C%E5%83%8F%E7%B1%BB%E5%9E%8B.png)
 
 ECS的连接方式：
 
 云服务器ECS支持通过多种方式连接实例，包括Workbench、VNC和第三方客户端工具。
 
-![18.连接ECS的方式](18.%E8%BF%9E%E6%8E%A5ECS%E7%9A%84%E6%96%B9%E5%BC%8F.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/18.%E8%BF%9E%E6%8E%A5ECS%E7%9A%84%E6%96%B9%E5%BC%8F.png)
 
 VNC连接不需要公网IP，其余均需要固定公网IP或EIP。
 
@@ -319,7 +319,7 @@ VNC连接不需要公网IP，其余均需要固定公网IP或EIP。
 
 ​	—重置密码功能
 
-![19.重置实例密码](19.%E9%87%8D%E7%BD%AE%E5%AE%9E%E4%BE%8B%E5%AF%86%E7%A0%81.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/19.%E9%87%8D%E7%BD%AE%E5%AE%9E%E4%BE%8B%E5%AF%86%E7%A0%81.png)
 
 
 
@@ -345,13 +345,13 @@ e.掌握阿里云中使用块存储
 
 ​	在计算机使用过程中，经常会遇到下面三种存储结构。
 
-![20.存储结构](20.%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/20.%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.png)
 
 阿里云对象存储OSS（Object Storage Service）时阿里云提供的海量、安全、低成本、高可靠的云存储服务。可以在任何应用、任何时间、任何地点存储和访问任意类型的数据。
 
 OSS中的概念：
 
-![21.OSS中的概念](21.OSS%E4%B8%AD%E7%9A%84%E6%A6%82%E5%BF%B5.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/21.OSS%E4%B8%AD%E7%9A%84%E6%A6%82%E5%BF%B5.png)
 
 #### 3.2 OSS的优势和使用场景
 
@@ -359,11 +359,11 @@ OSS中的概念：
 
 方便快捷的使用方式、强大灵活的安全机制、丰富强大的增值服务、数据冗余机制
 
-![22.OSS主要优势](22.OSS%E4%B8%BB%E8%A6%81%E4%BC%98%E5%8A%BF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/22.OSS%E4%B8%BB%E8%A6%81%E4%BC%98%E5%8A%BF.png)
 
 阿里云OSS对比自建对象存储：
 
-![23.阿里云OSS和自建对象存储对比](23.%E9%98%BF%E9%87%8C%E4%BA%91OSS%E5%92%8C%E8%87%AA%E5%BB%BA%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E5%AF%B9%E6%AF%94.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/23.%E9%98%BF%E9%87%8C%E4%BA%91OSS%E5%92%8C%E8%87%AA%E5%BB%BA%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E5%AF%B9%E6%AF%94.png)
 
 #### 3.3如何使用阿里云OSS
 
@@ -371,7 +371,7 @@ OSS中的概念：
 
 开通OSS服务—创建存储空间—上传文件—下载文件—删除文件—删除存储空间
 
-![24.使用OSS的步骤&流程](24.%E4%BD%BF%E7%94%A8OSS%E7%9A%84%E6%AD%A5%E9%AA%A4&%E6%B5%81%E7%A8%8B.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/24.%E4%BD%BF%E7%94%A8OSS%E7%9A%84%E6%AD%A5%E9%AA%A4&%E6%B5%81%E7%A8%8B.png)
 
 阿里云OSS将数据文件以对象(Object)的形式上传到存储空间(Bucket)中。可以进行以下操作：
 1.创建一个或者多个存储空间，向每个存储空间中添加个或多个文件。
@@ -385,7 +385,7 @@ OSS中的概念：
 
 创建存储空间时，常用的配置如下：
 
-![25.OSS创建存储空间](25.OSS%E5%88%9B%E5%BB%BA%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/25.OSS%E5%88%9B%E5%BB%BA%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4.png)
 
 Bucket 名称是唯一的，不能重复。
 
@@ -397,7 +397,7 @@ ECS和OSS地域保持一致，保证能够内网访问。
 
 在阿里云上传对象文件的方法主要有：（同名文件会覆盖）
 
-![26.OSS上传对象文件](26.OSS%E4%B8%8A%E4%BC%A0%E5%AF%B9%E8%B1%A1%E6%96%87%E4%BB%B6.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/26.OSS%E4%B8%8A%E4%BC%A0%E5%AF%B9%E8%B1%A1%E6%96%87%E4%BB%B6.png)
 
 #### 3.4 阿里云块存储
 
@@ -407,7 +407,7 @@ ECS和OSS地域保持一致，保证能够内网访问。
 
 - 衡量块存储产品的性能指标主要包括IOPS、吞吐量和访问时延。
 
-![27.块存储性能指标](27.%E5%9D%97%E5%AD%98%E5%82%A8%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/27.%E5%9D%97%E5%AD%98%E5%82%A8%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87.png)
 
 块存储的数据安全：
 
@@ -415,13 +415,13 @@ ECS和OSS地域保持一致，保证能够内网访问。
 
 读写稳定性、主动备份、数据擦除机制、数据加密
 
-![28.阿里云块存储数据安全](28.%E9%98%BF%E9%87%8C%E4%BA%91%E5%9D%97%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/28.%E9%98%BF%E9%87%8C%E4%BA%91%E5%9D%97%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8.png)
 
 ##### 3.4.2 阿里云块存储的分类
 
 阿里云为云服务器ECS提供了丰富的块存储产品，包括基于分布式存储架构的云盘以及基于物理机本地硬盘的本地盘产品。
 
-![29.阿里云块存储-本地盘和云盘](29.%E9%98%BF%E9%87%8C%E4%BA%91%E5%9D%97%E5%AD%98%E5%82%A8-%E6%9C%AC%E5%9C%B0%E7%9B%98%E5%92%8C%E4%BA%91%E7%9B%98.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/29.%E9%98%BF%E9%87%8C%E4%BA%91%E5%9D%97%E5%AD%98%E5%82%A8-%E6%9C%AC%E5%9C%B0%E7%9B%98%E5%92%8C%E4%BA%91%E7%9B%98.png)
 
 云盘的类型：
 
@@ -444,7 +444,7 @@ ESSD云盘、SSD云盘、高效云盘、普通云盘。
 
 单台实例上限：系统盘1，数据盘≤ 16
 
-![30.云盘的数据类型](30.%E4%BA%91%E7%9B%98%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/30.%E4%BA%91%E7%9B%98%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png)
 
 一块云盘只能挂载到同一地域、同一可用区的一台ECS实例。
 
@@ -452,13 +452,13 @@ ESSD云盘、SSD云盘、高效云盘、普通云盘。
 
 阿里云提供了三种常见的数据存储场景产品，分别是块存储、对象存储OSS和文件存储NAS。
 
-![31.阿里云数据存储场景产品](31.%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E5%9C%BA%E6%99%AF%E4%BA%A7%E5%93%81.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/31.%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E5%9C%BA%E6%99%AF%E4%BA%A7%E5%93%81.png)
 
 块存储 VS OSS：
 
 对比图如下：
 
-![32.对象存储与块存储对比](32.%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E4%B8%8E%E5%9D%97%E5%AD%98%E5%82%A8%E5%AF%B9%E6%AF%94.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/32.%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E4%B8%8E%E5%9D%97%E5%AD%98%E5%82%A8%E5%AF%B9%E6%AF%94.png)
 
 ##### 3.4.4 块存储的使用
 
@@ -466,13 +466,13 @@ ESSD云盘、SSD云盘、高效云盘、普通云盘。
 
 创建云盘—挂载云盘—分区—格式化—挂载
 
-![33.块存储的流程](33.%E5%9D%97%E5%AD%98%E5%82%A8%E7%9A%84%E6%B5%81%E7%A8%8B.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/33.%E5%9D%97%E5%AD%98%E5%82%A8%E7%9A%84%E6%B5%81%E7%A8%8B.png)
 
 做LVM不要做快照。快照是依据硬盘 备份的。
 
 挂载数据盘：
 
-![34.挂载数据盘](34.%E6%8C%82%E8%BD%BD%E6%95%B0%E6%8D%AE%E7%9B%98.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/34.%E6%8C%82%E8%BD%BD%E6%95%B0%E6%8D%AE%E7%9B%98.png)
 
 分区格式化数据盘：
 
@@ -535,7 +535,7 @@ Linux：fdisk\parted、MBR\GPT 、vfat\ext3\ext4\xfs\btrfs
 
 
 
-![35.VPC的组成部分](35.VPC%E7%9A%84%E7%BB%84%E6%88%90%E9%83%A8%E5%88%86.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/35.VPC%E7%9A%84%E7%BB%84%E6%88%90%E9%83%A8%E5%88%86.png)
 
 ##### 4.1.2 VPC连接
 
@@ -543,7 +543,7 @@ Linux：fdisk\parted、MBR\GPT 、vfat\ext3\ext4\xfs\btrfs
 
 可以使用下表中的产品或功能，将专有网络和公网（Internet）打通。
 
-![36.公网连接技术](36.%E5%85%AC%E7%BD%91%E8%BF%9E%E6%8E%A5%E6%8A%80%E6%9C%AF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/36.%E5%85%AC%E7%BD%91%E8%BF%9E%E6%8E%A5%E6%8A%80%E6%9C%AF.png)
 
 **VPC之间的互通：**
 
@@ -560,7 +560,7 @@ VPC可以有效的实现网络的隔离，不同VPC之间连接技术：
 
 以使用以下的产品或功能，将本地IDC和云上专有网络打通，构建混合云架构。
 
-![37.本地IDC上云](37.%E6%9C%AC%E5%9C%B0IDC%E4%B8%8A%E4%BA%91.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/37.%E6%9C%AC%E5%9C%B0IDC%E4%B8%8A%E4%BA%91.png)
 
 ##### 4.1.3 VPC的基础架构
 
@@ -570,7 +570,7 @@ VPC逻辑架构：
 
 - VPC包含交换机、网关和控制器三个重要的组件。交换机和网关组成了数据通路的关键路径，控制器使用自研的协议下发转发表到网关和交换机，完成了配置通路的关键路径。
 
-<img src="38.VPC%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84.png" alt="38.VPC逻辑架构" style="zoom:80%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/38.VPC%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84.png)
 
 **网络规划：**
 
@@ -597,7 +597,7 @@ VPC逻辑架构：
 - 通过设置虚拟服务地址，将添加的同一地域的多台ECS实例虚拟成一个高性能、高可用的后端服务池，并根据转发规则，将来自客户端的请求分发给后端服务器池中的ECS实例。
 - 默认检查云服务器池中的ECS实例的健康状态，自动隔离移仓状态的ECS实例，消除了单台ECS实例的单点故障，提高了应用的整体服务能力。此外，负载均衡还具备抗DDoS攻击的能力，增强了应用服务的防护能力。
 
-<img src="39.%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1SLB%E7%9A%84%E6%A6%82%E5%BF%B5.png" alt="39.负载均衡SLB的概念" style="zoom:80%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/39.%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1SLB%E7%9A%84%E6%A6%82%E5%BF%B5.png)
 
 **SLB的组成部分：**
 
@@ -613,7 +613,7 @@ VPC逻辑架构：
 
 高可用、可扩展、低成本、安全、高并发
 
-![40.SLB的产品优势](40.SLB%E7%9A%84%E4%BA%A7%E5%93%81%E4%BC%98%E5%8A%BF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/40.SLB%E7%9A%84%E4%BA%A7%E5%93%81%E4%BC%98%E5%8A%BF.png)
 
 
 
@@ -621,17 +621,17 @@ VPC逻辑架构：
 
 SLB的基础架构：负载均衡采用集群部署，提供四层（TCP和UDP协议）和七层（HTTP协议和HTTPS协议）的负载均衡，可实现会话同步，以消除服务器单点故障，提升冗余，保证服务的稳定性。
 
-![41.SLB负载均衡的基础架构](41.SLB%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/41.SLB%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84.png)
 
 SLB中提供的功能：
 
-![42.SLB提供的功能](42.SLB%E6%8F%90%E4%BE%9B%E7%9A%84%E5%8A%9F%E8%83%BD.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/42.SLB%E6%8F%90%E4%BE%9B%E7%9A%84%E5%8A%9F%E8%83%BD.png)
 
 SLB的应用场景：
 
 负载均衡的应用场景为高访问量的业务，提高应用程序的可靠性和可用性。
 
-<img src="43.SLB%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.png" alt="43.SLB的应用场景" style="zoom: 67%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/43.SLB%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.png)
 
 ##### 4.2.3 SLB的配置
 
@@ -639,7 +639,7 @@ SLB的配置流程:
 
 在开始搭建负载均衡服务前，需要确定负载均衡实例的地域、类型、付费模式等配置。
 
-<img src="44.SLB%E7%9A%84%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.png" alt="44.SLB的配置流程" style="zoom:61%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/44.SLB%E7%9A%84%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.png)
 
 SLB使用的注意事项：
 
@@ -651,7 +651,7 @@ SLB使用的注意事项：
 
 4.准备后端服务器
 
-![45.SLB使用的注意事项](45.SLB%E4%BD%BF%E7%94%A8%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/45.SLB%E4%BD%BF%E7%94%A8%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.png)
 
 
 
@@ -663,7 +663,7 @@ SLB使用的注意事项：
 
 - 弹性伸缩不仅适合业务量不断波动的应用程序，同时也适合业务量稳定的应用程序。
 
-<img src="46.%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E6%A6%82%E5%BF%B5.png" alt="46.弹性伸缩的概念" style="zoom:80%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/46.%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E6%A6%82%E5%BF%B5.png)
 
 AS的使用场景：
 
@@ -671,7 +671,7 @@ AS的使用场景：
 
 
 
-![47.弹性伸缩的场景](47.%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E5%9C%BA%E6%99%AF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/47.%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E5%9C%BA%E6%99%AF.png)
 
 ##### 4.3.2 AS的原理
 
@@ -679,11 +679,11 @@ AS的使用场景：
 
 创建好伸缩组、伸缩配置、伸缩规则、伸缩触发任务后，系统会自动化执行以下流程。
 
-![48弹性伸缩的工作流程](48%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/48%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
 
 弹性伸缩的伸缩模式：
 
-![49.弹性伸缩的伸缩模式](49.%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E4%BC%B8%E7%BC%A9%E6%A8%A1%E5%BC%8F.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/49.%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9%E7%9A%84%E4%BC%B8%E7%BC%A9%E6%A8%A1%E5%BC%8F.png)
 
 
 
@@ -709,13 +709,13 @@ AS的使用流程：
 
 - 伸缩组的配置项：
 
-![50.伸缩组的配置项](50.%E4%BC%B8%E7%BC%A9%E7%BB%84%E7%9A%84%E9%85%8D%E7%BD%AE%E9%A1%B9.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/50.%E4%BC%B8%E7%BC%A9%E7%BB%84%E7%9A%84%E9%85%8D%E7%BD%AE%E9%A1%B9.png)
 
 伸缩组会保证最小实例的数量
 
 创建伸缩规则：
 
-![51.伸缩规则](51.%E4%BC%B8%E7%BC%A9%E8%A7%84%E5%88%99.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/51.%E4%BC%B8%E7%BC%A9%E8%A7%84%E5%88%99.PNG)
 
 
 
@@ -755,7 +755,7 @@ AS的使用流程：
 
 - Polar DB中常见概念：
 
-  <img src="52.Polar%20DB%E5%B8%B8%E8%A7%81%E6%A6%82%E5%BF%B5.PNG" alt="52.Polar DB常见概念" style="zoom:80%;" />
+ ![](https://github.com/yuhongwei380/ACA/blob/main/Image/52.Polar%20DB%E5%B8%B8%E8%A7%81%E6%A6%82%E5%BF%B5.PNG)
 
 ##### 5.1.2 Polar DB的优势
 
@@ -781,7 +781,7 @@ Polar DB 既融合了商业数据库稳定可靠、高性能、可扩展的特�
 
 Polar DB的产品架构及其特点：
 
-![54.Polar DB的产品架构及特点](54.Polar%20DB%E7%9A%84%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%8F%8A%E7%89%B9%E7%82%B9.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/54.Polar%20DB%E7%9A%84%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%8F%8A%E7%89%B9%E7%82%B9.PNG)
 
 
 
@@ -791,7 +791,7 @@ Polar DB的产品架构及其特点：
 
 - 阿里云关系型数据库RDS（Relationship Database Service）是一种稳定可靠、可弹性伸缩的在线数据库服务。基于阿里云分布式文件系统和SSD盘高性能存储，RDS支持MySQL、SQL Server、PostgreSQL、PPAS（Postgre Plus Advanced Server，高度兼容Oracle 数据库）和MariaDB TX引擎，并且提供了容灾、备份、恢复、监控、迁移等方面的全套解决方案。
 
-<img src="55.RDS%E7%9A%84%E7%89%B9%E7%82%B9.PNG" alt="55.RDS的特点" style="zoom:80%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/55.RDS%E7%9A%84%E7%89%B9%E7%82%B9.PNG)
 
 RDS的相关概念：
 
@@ -812,9 +812,9 @@ RDS和自建数据库：
 
 以RDS MySQL为例对比阿里云ECS自建数据库和用户IDC自建数据库。
 
-![56. RDS对比自建数据库](56.%20RDS%E5%AF%B9%E6%AF%94%E8%87%AA%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%93.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/56.%20RDS%E5%AF%B9%E6%AF%94%E8%87%AA%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%93.PNG)
 
-![56. RDS对比自建数据库2](56.%20RDS%E5%AF%B9%E6%AF%94%E8%87%AA%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%932.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/56.%20RDS%E5%AF%B9%E6%AF%94%E8%87%AA%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%932.PNG)
 
 ##### 5.2.2 RDS的产品选型
 
@@ -824,7 +824,7 @@ RDS的产品系列
 
 RDS各产品系列对比：
 
-![57.RDS产品系列对比](57.RDS%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97%E5%AF%B9%E6%AF%94.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/57.RDS%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97%E5%AF%B9%E6%AF%94.PNG)
 
 RDS实例规格族的分类：
 
@@ -834,9 +834,9 @@ RDS实例规格族的分类：
 | 通用型 | 1.**独享被分配的内存**，与同一物理机上的其他通用型实例**共享CPU和存储资源**。2.通过资源复用享受规模红利，性价比较高。CPU资源轻微复用，复用率小于共享型实例。3.存储大小不和CPU/内存绑定，可以灵活选配。 | 对**性能稳定性要求较低**的应用场景                           |
 | 独享型 | 具有**完全独享**的CPU和内存，性能长期稳定，不会因为物理机上其它实例的行为而受到影响。独享型的顶配是独占物理机，也称为独占主机型，完全独占一台物理机的所有资源。 | 以**数据库为核心系统**的业务场景，例如金融、电商、政务、大中型互联网业务等。 |
 
-![58.RDS实例规格族](58.RDS%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/58.RDS%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F.PNG)
 
-![59.RDS实例规格族对比](59.RDS%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F%E5%AF%B9%E6%AF%94.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/59.RDS%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F%E5%AF%B9%E6%AF%94.PNG)
 
 存储类型：
 
@@ -844,8 +844,7 @@ RDS实例规格族的分类：
 
 本地SSD盘、SSD云盘、ESSD云盘。
 
-<img src="60.RDS%E6%8F%90%E4%BE%9B%E7%9A%84%E5%AD%98%E5%82%A8%E7%B1%BB%E5%9E%8B.PNG" alt="60.RDS提供的存储类型" style="zoom: 67%;" />
-
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/60.RDS%E6%8F%90%E4%BE%9B%E7%9A%84%E5%AD%98%E5%82%A8%E7%B1%BB%E5%9E%8B.PNG)
  
 
 #### 5.3 云数据库的使用
@@ -890,9 +889,9 @@ RDS实例规格族的分类：
 
 公网地址：需要手动申请公网连接地址，也可以释放，适用于公网访问数据库集群进行维护操作。
 
-<img src="61.RDS%E9%9B%86%E7%BE%A4%E8%BF%9E%E6%8E%A5%E5%9C%B0%E5%9D%80.PNG" alt="61.RDS集群连接地址" style="zoom: 67%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/61.RDS%E9%9B%86%E7%BE%A4%E8%BF%9E%E6%8E%A5%E5%9C%B0%E5%9D%80.PNG)
 
-<img src="62.RDS%E5%85%AC%E7%A7%81%E7%BD%91%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png" alt="62.RDS公私网管理页面" style="zoom:50%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/62.RDS%E5%85%AC%E7%A7%81%E7%BD%91%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
 
 ##### 5.3.2 Polar DB MySQL的连接
 
@@ -902,11 +901,11 @@ RDS实例规格族的分类：
 
 ​	DMS是阿里云提供的图形化的数据管理工具，它是一种集数据管理、结构管理、访问安全、BI图标、数据趋势、数据轨迹、性能与优化和服务器管理于一体的数据管理服务。支持对关系型数据库（MySQL、SQL Service、PostgreSQL）和NoSQL数据库（MongoDB、Redis等）的管理。同时还支持Linux服务器管理。
 
-<img src="63.DMS%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9B%86%E7%BE%A4.PNG" alt="63.DMS连接数据库集群" style="zoom:61%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/63.DMS%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9B%86%E7%BE%A4.PNG)
 
 控制台中——登录数据库
 
-<img src="64.DMS%E7%99%BB%E5%BD%95%E6%95%B0%E6%8D%AE%E5%BA%93.PNG" alt="64.DMS登录数据库" style="zoom: 50%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/64.DMS%E7%99%BB%E5%BD%95%E6%95%B0%E6%8D%AE%E5%BA%93.PNG)
 
 2.客户端工具——HeidiSQL客户端等
 
@@ -936,13 +935,13 @@ DTS的特点：
 
 数据迁移提供多种迁移类型：结构对象迁移、全量数据迁移及增量数据迁移。如果需要实现不停服迁移，需要选择结构对象迁移、全量数据迁移及增量数据迁移。
 
-<img src="65.Polar%20DB%20%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E5%9C%BA%E6%99%AF.PNG" alt="65.Polar DB 数据迁移场景" style="zoom:67%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/65.Polar%20DB%20%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E5%9C%BA%E6%99%AF.PNG)
 
 数据同步：
 
 实时同步功能能够实现两个数据源之间的增量数据实时同步。
 
-<img src="66.Polar%20DB%20%E6%95%B0%E6%8D%AE%E5%90%8C%E6%AD%A5.PNG" alt="66.Polar DB 数据同步" style="zoom:67%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/66.Polar%20DB%20%E6%95%B0%E6%8D%AE%E5%90%8C%E6%AD%A5.PNG)
 
 ### 6 阿里云CDN
 
@@ -977,8 +976,7 @@ CDN解决的问题：
   - 对于网站突发流量，无需用户干预，自动作出响应和调整，有效减少源站压力。
   - CDN是公认的最具性价比的解决方案。
 
-  <img src="67.CDN.PNG" alt="67.CDN" style="zoom:50%;" />
-
+  ![](https://github.com/yuhongwei380/ACA/blob/main/Image/67.CDN.PNG)
 阿里云CDN的概念：
 
 - 阿里云内容分发网络（Content Delivery Network简称CDN）是建立并覆盖在承载网之上，由分布在不同区域的边缘节点服务器群组成的分布式网络。阿里云CDN分担源站压力，避免网络拥塞，确保在不同区域、不同场景下加速网站内容的分发，提高资源访问速度。
@@ -996,19 +994,19 @@ CDN解决的问题：
 | 云服务器ECS  | 借助云服务器ECS提高网站可用性，保护服务器源站信息，降低带宽使用成本 |
 | 负载均衡     | 可以将负载均衡服务器的IP地址设置为回源地址，降低回源带宽压力 |
 
-![68.CDN相关产品](68.CDN%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/68.CDN%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81.PNG)
 
 ##### 6.1.2 阿里云CDN的工作原理
 
 假设加速域名为www.a.com，接入CDN网络，开始使用加速服务后，当终端用户（北京）发起HTTP请求时，处理流程如下图所示：
 
-<img src="70.CDN%20%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E4%B8%BE%E4%BE%8B.png" alt="70.CDN 工作原理举例" style="zoom:67%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/70.CDN%20%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E4%B8%BE%E4%BE%8B.png)
 
 CDN的衡量指标：
 
 可以根据以下几个主要性能指标，观察使用CDN前后网站的情况。这些指标包含但不限于：
 
-![71.CDN性能指标](71.CDN%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/71.CDN%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87.png)
 
 由于业务场景和业务类型的不同，即使选择了相同配置的CDN服务，实际产生的加速效果也不相同。
 
@@ -1042,7 +1040,7 @@ CDN的使用场景，分为静态内容加速、动态内容加速和安全加�
 | 全站加速   | 全站加速是阿里云一款独立产品，主要用于动态内容加速，也可以实现动静分离加速。 |
 | 安全加速   | 安全加速适用于游戏、金融、政企安防、电商、医疗领域等易受攻击又必需兼顾加速的业务场景。 |
 
-![72.CDN业务场景](72.CDN%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/72.CDN%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF.png)
 
 #### 6.2 CDN的使用（不分地域）
 
@@ -1056,7 +1054,7 @@ CDN的操作流程：
 
 - CDN通过加速域名将源站上的资源缓存到CDN的加速节点，实现资源访问加速。
 
-![73.CDN加速域名注意事项](73.CDN%E5%8A%A0%E9%80%9F%E5%9F%9F%E5%90%8D%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/73.CDN%E5%8A%A0%E9%80%9F%E5%9F%9F%E5%90%8D%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.png)
 
 配置CNAME记录：
 
@@ -1071,7 +1069,7 @@ CDN的操作流程：
 - 当不想使用CDN加速服务时，可以在CDN控制台上删除指定加速域名。删除加速域名后，不会产生任何费用。
 - 在域名管理界面，单击目标域名对应下图红框中的图标，选择删除。
 
-![74.停止CDN](74.%E5%81%9C%E6%AD%A2CDN.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/74.%E5%81%9C%E6%AD%A2CDN.PNG)
 
 需要临时停止指定域名的加速服务时，可以选择停用。停止加速服务后，不会产生任何费用。
 
@@ -1101,7 +1099,7 @@ CDN的操作流程：
 
 针对网络中的一个运行系统而言，网络安全是指网络系统的硬件、软件及其系统中的信息受到保护。包括系统连续、可靠、正常的运行，网络服务不中断，系统中的信息不因偶然的或恶意的行为而遭到破坏、更改或泄露。
 
-<img src="75.%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8.PNG" alt="75.网络安全" style="zoom: 50%;" />
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/75.%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8.PNG)
 
 云计算安全新的挑战：
 
@@ -1113,7 +1111,7 @@ CDN的操作流程：
   - 数据集中的安全问题
   - API安全存疑、Dos攻击泛滥
 
-![76.云计算安全风险](76.%E4%BA%91%E8%AE%A1%E7%AE%97%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9.PNG)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/76.%E4%BA%91%E8%AE%A1%E7%AE%97%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9.PNG)
 
 
 
@@ -1123,11 +1121,11 @@ CDN的操作流程：
 
 云上安全是由阿里云和用户共同负责构建云安全环境。
 
-![77.云上安全](77.%E4%BA%91%E4%B8%8A%E5%AE%89%E5%85%A8.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/77.%E4%BA%91%E4%B8%8A%E5%AE%89%E5%85%A8.png)
 
 阿里云安全体系：
 
-![78.阿里云安全体系](78.%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E4%BD%93%E7%B3%BB.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/78.%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E4%BD%93%E7%B3%BB.png)
 
 #### 7.2 阿里云云监控安全产品
 
@@ -1160,7 +1158,7 @@ DDoS高防应用场景：
 
 3.频繁遭受DDoS攻击，需要持续防护DDoS攻击，保护业务的稳定性。
 
-![79.DDoS高防应用场景](79.DDoS%E9%AB%98%E9%98%B2%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/79.DDoS%E9%AB%98%E9%98%B2%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.png)
 
 DDoS高防防护网站流程：
 
@@ -1195,7 +1193,7 @@ Web应用防火墙介绍：
 
 云盾Web应用防火墙具有部署简易、防护及时精确、大数据驱动、高可靠等优势。
 
-![80.阿里云WAF优势](80.%E9%98%BF%E9%87%8C%E4%BA%91WAF%E4%BC%98%E5%8A%BF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/80.%E9%98%BF%E9%87%8C%E4%BA%91WAF%E4%BC%98%E5%8A%BF.png)
 
 接入WAF：
 
@@ -1204,7 +1202,7 @@ Web应用防火墙介绍：
   - 1.DNS配置模式（推荐）：通过修改域名的DNS解析设置，将网站流量解析到Web应用防火墙，Web应用防火墙将处理后的请求发回源站服务器。
   - 2.透明代理模式：无需修改域名的DNS解析设置，支持直接牵引源站ECS公网IP 80端口接收到的HTTP协议的流量到Web应用防火墙，经Web应用防火墙处理后再将正常的访问流量转发回源站服务器。
 
-![81.接入WAF两种方式](81.%E6%8E%A5%E5%85%A5WAF%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/81.%E6%8E%A5%E5%85%A5WAF%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F.png)
 
 
 
@@ -1233,7 +1231,7 @@ Web应用防火墙介绍：
 - 支持病毒云查杀：病毒云查杀提供全面的和实时的病毒检测和防护服务。
 - 符合多项国标安全认证标准：云安全中心已通过ISO等多项认证。
 
-![82.云安全中心优势](82.%E4%BA%91%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83%E4%BC%98%E5%8A%BF.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/82.%E4%BA%91%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83%E4%BC%98%E5%8A%BF.png)
 
 云安全中心使用流程：
 
@@ -1245,7 +1243,7 @@ Agent插件时云安全中心提供的本地安全插件，必须要在防护的
 
 第三步：购买云安全中心服务后，可以在云安全中心总览页面查看当前阿里云账号下的服务器安全状态，以及安全告警事件、主机漏洞扫描结果、系统配置风险情况。
 
-![83.云安全中心使用流程](83.%E4%BA%91%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/83.%E4%BA%91%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.png)
 
 
 
@@ -1257,7 +1255,7 @@ Agent插件时云安全中心提供的本地安全插件，必须要在防护的
 
 - 云监控为云上用户提供开箱即用的企业级开放型一站式监控解决方案。云监控涵盖IT设施基础监控和外网网络质量拨测监控，是基于事件、自定义指标和日志的业务监控，全方位提供更高效、全面、省钱的监控服务。
 
-![84.云监控](84.%E4%BA%91%E7%9B%91%E6%8E%A7.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/84.%E4%BA%91%E7%9B%91%E6%8E%A7.png)
 
 云监控的优势：
 
