@@ -26,7 +26,7 @@ d.掌握阿里云中地域和可用区的概念。
 
 云计算是一种新的服务模式——购买服务。
 
-！[](https://github.com/yuhongwei380/ACA/blob/main/Image/1.png)
+![](https://github.com/yuhongwei380/ACA/blob/main/Image/1.png)
 
 #### 1.1.2云计算部署模式：
 
