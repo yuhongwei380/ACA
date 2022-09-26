@@ -26,7 +26,7 @@ d.掌握阿里云中地域和可用区的概念。
 
 云计算是一种新的服务模式——购买服务。
 
-<img src="1.png" alt="1" style="zoom:67%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/1.png)
 
 #### 1.1.2云计算部署模式：
 
@@ -54,11 +54,11 @@ d.掌握阿里云中地域和可用区的概念。
 
 阿里云创立于2009年，2017年1月成为奥运会全球指定云服务商。
 
-<img src="2.png" alt="2" style="zoom: 67%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/2.png)
 
 #### 1.3阿里云产品全家福
 
-<img src="3.png" alt="3" style="zoom:61%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/3.png)
 
 计算类：
 
@@ -130,7 +130,7 @@ d.掌握阿里云中地域和可用区的概念。
 
 #### 1.4 阿里云产品架构
 
-<img src="4.png" alt="4" style="zoom:80%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/4.png)
 
 #### 1.5阿里云基础架构
 
@@ -207,7 +207,7 @@ ECS的组件架构图：
 
 云服务ECS及其他阿里云产品关系如图。
 
-<img src="6.ECS%E7%9A%84%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%E5%9B%BE.png" alt="6.ECS的组织架构图" style="zoom:67%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/6.ECS%E7%9A%84%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 
 
@@ -217,7 +217,7 @@ ECS部署建议：
 
 地域和可用区、高可用性、网络规划、安全方案。
 
-<img src="7.ECS%E9%83%A8%E7%BD%B2%E5%BB%BA%E8%AE%AE.png" alt="7.ECS部署建议" style="zoom:50%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/7.ECS%E9%83%A8%E7%BD%B2%E5%BB%BA%E8%AE%AE.png)
 
 ECS适用场景：
 
@@ -233,19 +233,19 @@ ECS适用场景：
 
 6.机器学习和深度学习等AI应用
 
-<img src="8-1.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png" alt="8-1.ECS适用场景" style="zoom:67%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/8-1.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png)
 
-<img src="8-2.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png" alt="8-2.ECS适用场景" style="zoom:67%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/8-2.ECS%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF.png)
 
 #### 2.2ECS的优势
 
 阿里云弹性计算10年身后技术积淀，技术领先、性能优异、稳如磐石。
 
-<img src="9.ECS%E4%BC%98%E5%8A%BF.png" alt="9.ECS优势" style="zoom:67%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/9.ECS%E4%BC%98%E5%8A%BF.png)
 
 **ECS和IDC对比：**
 
-<img src="10.ECS%E5%92%8CIDC%E5%AF%B9%E6%AF%94.png" alt="10.ECS和IDC对比" style="zoom:80%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/10.ECS%E5%92%8CIDC%E5%AF%B9%E6%AF%94.png)
 
 #### 2.3 ECS的实例规格
 
@@ -263,11 +263,10 @@ ECS的常用概念：
 
 创建实例—准备中—启动中—运行中—停止中—已停止—删除实例。
 
-<img src="11.%E5%AE%9E%E4%BE%8B%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png" alt="11.实例的生命周期" style="zoom:50%;" />
-
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/11.%E5%AE%9E%E4%BE%8B%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
 **阿里云中ECS的实例规格族：**
 
-<img src="12.%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F.png" alt="12.实例规格族" style="zoom:80%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/12.%E5%AE%9E%E4%BE%8B%E8%A7%84%E6%A0%BC%E6%97%8F.png)
 
 #### 2.4 弹性裸金属服务器（神龙）EBM
 
@@ -282,7 +281,7 @@ ECS的常用概念：
 - 弹性裸金属服务器融合了物理机与云服务器的各自优势，实现超强超稳的计算能力。业务应用可以直接访问弹性裸金属服务器和内存，无任何虚拟化开销。
 - 弹性裸金属服务器通过自研芯片和自研Hypervisor系统软件，打造了全球领先的深度融合物理机和虚拟机特性的创新型计算架构。能与阿里云产品家族中的其他计算产品无缝对接。
 
-<img src="14.EBM%E5%AE%9E%E4%BE%8B.png" alt="14.EBM实例" style="zoom:80%;" />
+！[](https://github.com/yuhongwei380/ACA/blob/main/Image/14.EBM%E5%AE%9E%E4%BE%8B.png)
 
 弹性裸金属服务器的优势和使用场景
 
